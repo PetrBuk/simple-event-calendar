@@ -118,4 +118,5 @@ const FieldsWrapper = styled('div')`
   display: flex;
   flex-direction: column;
   gap: 1rem;
+  padding-top: 1rem;
 `
